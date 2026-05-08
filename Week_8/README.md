@@ -23,8 +23,10 @@ How to start (optional prompts):
 (articles, free sample sources, technical documentation)
 
 ## RESEARCH AND PROCESS
-For the first task I had to create a drum sequence. To start off I researched a bit of music theory concerning beat sequences soI can get a good idea. This is so I can know how to create  something auditively consumable and coherent.
+For the first task I had to create a drum sequence. To start off I researched a bit of music theory concerning beat sequences so I can get a good idea. This is so I can know how to create  something auditively consumable and coherent.
 
 [Music Theory for Beatmaking](https://www.loopcloud.com/cloud/blog/5290-Music-Theory-for-Beatmaking)
 
-Thanks to this article but also my previous knowledge in music ( I took piano for one year when I was 5 so I am basically Mozart ), I understood that music is like math : Beats need to repeat consistently, and the beats within each rythm need to be consistent as well.
+Thanks to this article but also my previous knowledge in music ( I took piano for one year when I was 5 so I am basically Mozart ), I understood that music is like math : Beats need to repeat consistently, and the beats within each rythm need to be consistent as well. This is when I created my first  modulo loop example.
+After that 
+I felt inspired in garage band to extract the beat from the song I used into replicating it. I used the pluck glass effect and transofrmed it to sound like drum symbals and extracted the beat from the song into one singluar beat or something. From there I assembled them both using code and together, they sound like a trashy messy uncoordinated band.
