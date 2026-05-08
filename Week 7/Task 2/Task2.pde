@@ -33,6 +33,7 @@ void setup() {
 }
 
 void draw() {
+  background(freqMod * 100, 100, 200); 
   
   freqMod = sin(float(frameCount) / 15.0) + 1.0;
   
