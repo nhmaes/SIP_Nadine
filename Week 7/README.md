@@ -17,3 +17,5 @@ Feel free to add filters if you want to.<br>
 ### Task 1
 This weekly task was acheived by palying around with the examples from the given repository. I took inspiration from the sci-fi era movie sound tracks. Specifically where there is some sort of accident in the lab or something like in Stranger Things. Playing with the amp and frequency in sound ( two fundamental porperties that determine how we process vibrations of air ), I ended up with some sort of 'lab emergency siren'.
 From this task alone I learned that the frequency affects how fast/often the sound comes through and the amplitude measures the intensity or power of a sound wave, specifically the maximum displacement of particles from their resting position (how tall the wave is).
+## Task 2
+After I had to visalise the sound using graohics. I decided to give it a visual proerty affected by oen of the frequencies I created. I simply had the background color multiploed by the frequence so the hue changes based on the sine wave's speed.
