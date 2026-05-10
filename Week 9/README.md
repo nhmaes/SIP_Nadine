@@ -56,5 +56,3 @@ In doing so I added classic video game elemtns that make the game feel competiti
 So like that when miss your hit the health bar goes down and you lose, showing the game over screen.
 
 I ended uo making the game quirte difficult which underlines the real frustration in tennis. I had realised that I had not implemented any classes yet so that is what I will be getting to. By converting the previous logic used for the ball into the current one.
-
-Before :
