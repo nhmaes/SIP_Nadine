@@ -25,7 +25,7 @@
 My first step was to simulate a camera reading in the corner of my screen.
 After that I applied the dithering function
 I thought it looked a bit scary and that's when it remonded me of some Zendaya memes. This is when I decided to add her into the code as well. 
-#### AI DISCLAIMER : For this task I did use AI ( specifically Claude and then Gemini when I ran out of credits lol) to ask how to poceed for each step  : when I wanted to layer the dithered image in top of my webcam. The rest was researched myself, with Processnig librairies where I looked up different types of noises I can add.
+#### AI DISCLAIMER : For this task I did use AI ( specifically Claude and then Gemini when I ran out of credits lol) to ask how to poceed for each step  : when I wanted to layer the dithered image in top of my webcam. The rest was researched myself, with Processnig librairies where I looked up different types of noises I can add. But i did ask it to clean up my code. But the actual coding was done myself.
 
 I After I added Zendaya into the background I put one of her famous quotes : DONT FORGET TO SMILE
 I added a noise filter on top and then a key bind to saving the canvas.
