@@ -21,8 +21,6 @@ void draw() {
   background(random(255), random(255), random(255));
   sample1.play();
   sample2.amp(0.10);
-  sample2.play();
-
   if (frameCount % 4 == 0) {
   sample2.play();
   }
