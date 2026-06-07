@@ -2,9 +2,6 @@
 
 # DISCLAIMER : NO AI WAS USED
 
-## Directory contents
-
-* [code examples](./examples)
 
 ## Week 7 Task
 **Note: documentation for this week needs to include a sound file or a video with sound (screen recording or phone recording of the screen).**

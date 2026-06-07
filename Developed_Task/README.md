@@ -1,3 +1,5 @@
+
+# AI DISCLAIMER : I CODED EVERYTHING MYSELF but I did use AI for research purposes, including for researching code.
 # DEVELOPED FINAL TASK
 ## What did I chose to develop and why ?
 I chose to develop the weekly task from Week 6 :

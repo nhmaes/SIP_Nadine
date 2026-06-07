@@ -1,7 +1,7 @@
 # Week 06: Dithering and Convolution
 
-
-
+# AI DISCLAIMER : I CODED EVERYTHING MYSELF but I did use AI for research purposes, including for researching code.
+#### AI DISCLAIMER : For this task I did use AI ( specifically Claude and then Gemini when I ran out of credits lol) to ask how to poceed for each step  : when I wanted to layer the dithered image in top of my webcam. The rest was researched myself, with Processnig librairies where I looked up different types of noises I can add. But i did ask it to clean up my code. But the actual coding was done myself.
 ## Directory contents
 
 * Code sample for dither, convolve, camera examples are in `examples/`

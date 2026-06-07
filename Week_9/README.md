@@ -3,10 +3,6 @@
 # DISCLAIMER : NO AI WAS USED
 
 
-## Directory contents
-
-* [code examples](./examples)
-
 ## Week 9 Task
 
 Feel free to work in pairs (please add a comment about it in your sketch if you do).
@@ -36,7 +32,7 @@ Feel free to use the prompts below or use your own idea. You can also start with
 
 **Links to resources & technical references on Moodle :)**
 
-#Outcome :
+# Outcome :
 
 ## Task 2 V1
 <video src="OutcomeWeek9.mov" width="640" height="360" controls></video>
