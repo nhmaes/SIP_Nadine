@@ -7,4 +7,4 @@ nhmaes
 ## My name on GitHub :
 Nadine HMAES 
 
-The rest of the files are in the folder, in case anything goes wrong. I have also sent a repository link directly to Marysia through SLack in case anything goes wrong. I have also attatched a screen recording of my entire repository in case.
+The rest of the files are in the folder, in case anything goes wrong. I have also sent a repository link directly to Marysia through SLack in case anything goes wrong.
